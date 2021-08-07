@@ -1,0 +1,8 @@
+spring:
+  profiles:
+    active: test
+
+bot:
+  token: fake
+  name: bot
+  channel: test
